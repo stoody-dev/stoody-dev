@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/stoody-dev/github-readme-stats)
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=stoody-dev)
+
 
 <!--
 **stoody-dev/stoody-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
